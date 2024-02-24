@@ -1,4 +1,4 @@
-Login/Registration screen with interaction
+Login/Registration screen with interaction made with (Js/Html/css)
 
 ![image](https://github.com/MarcosRosariodev/Interactive-Login-Registration-screen/assets/159193425/6c56118a-b0d3-4eb4-993d-f84352f1dc28)
 
